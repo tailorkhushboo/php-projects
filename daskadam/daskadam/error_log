@@ -1,0 +1,3 @@
+[08-Apr-2019 07:44:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/vbinfggt/public_html/video_song_status/api.php on line 570
+[08-Apr-2019 07:44:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/vbinfggt/public_html/video_song_status/api.php on line 570
+[08-Apr-2019 07:44:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/vbinfggt/public_html/video_song_status/api.php on line 570

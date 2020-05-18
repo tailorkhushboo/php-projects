@@ -1,0 +1,19 @@
+[17-Apr-2020 04:31:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 628
+[18-Apr-2020 11:09:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1329
+[24-Apr-2020 07:17:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 980
+[27-Apr-2020 02:00:32 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/vbinfggt/public_html/khushboo/bike_service/add_invoice.php on line 234
+[27-Apr-2020 02:00:35 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/vbinfggt/public_html/khushboo/bike_service/add_invoice.php on line 234
+[28-Apr-2020 10:10:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/bike_service/manage_book.php on line 285
+[05-May-2020 06:19:48 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1558
+[05-May-2020 06:20:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1558
+[05-May-2020 06:22:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1558
+[05-May-2020 06:22:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1558
+[05-May-2020 06:22:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1558
+[05-May-2020 06:22:48 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1558
+[05-May-2020 06:22:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1558
+[05-May-2020 06:23:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1558
+[05-May-2020 06:26:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1558
+[05-May-2020 06:28:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1558
+[05-May-2020 06:29:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1558
+[05-May-2020 06:35:32 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 1558
+[05-May-2020 06:47:40 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/vbinfggt/public_html/khushboo/bike_service/api.php on line 2428

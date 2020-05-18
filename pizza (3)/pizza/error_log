@@ -1,0 +1,83 @@
+[27-Nov-2019 08:46:51 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 10
+[27-Nov-2019 08:46:51 Etc/GMT] PHP Notice:  Undefined property: stdClass::$name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 15
+[27-Nov-2019 08:47:03 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 10
+[27-Nov-2019 08:47:03 Etc/GMT] PHP Notice:  Undefined property: stdClass::$name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 15
+[27-Nov-2019 09:57:48 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 10
+[27-Nov-2019 09:57:48 Etc/GMT] PHP Notice:  Undefined property: stdClass::$name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 15
+[27-Nov-2019 09:58:40 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 11
+[27-Nov-2019 09:58:40 Etc/GMT] PHP Notice:  Undefined property: stdClass::$name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 16
+[27-Nov-2019 10:00:08 Etc/GMT] PHP Notice:  Undefined variable: json in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 12
+[27-Nov-2019 10:00:08 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 12
+[27-Nov-2019 10:00:08 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 12
+[27-Nov-2019 10:00:08 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 19
+[27-Nov-2019 10:01:28 Etc/GMT] PHP Notice:  Array to string conversion in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 14
+[27-Nov-2019 10:01:28 Etc/GMT] PHP Notice:  Array to string conversion in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 14
+[27-Nov-2019 10:01:28 Etc/GMT] PHP Notice:  Array to string conversion in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 14
+[27-Nov-2019 10:01:28 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 19
+[27-Nov-2019 10:03:36 Etc/GMT] PHP Notice:  Array to string conversion in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 14
+[27-Nov-2019 10:03:36 Etc/GMT] PHP Notice:  Array to string conversion in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 14
+[27-Nov-2019 10:03:36 Etc/GMT] PHP Notice:  Array to string conversion in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 14
+[27-Nov-2019 10:03:36 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 19
+[27-Nov-2019 10:05:25 Etc/GMT] PHP Notice:  Undefined variable: json in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 12
+[27-Nov-2019 10:05:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 12
+[27-Nov-2019 10:05:25 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 12
+[27-Nov-2019 10:05:25 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 19
+[27-Nov-2019 10:06:15 Etc/GMT] PHP Notice:  Undefined variable: json in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 12
+[27-Nov-2019 10:06:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 12
+[27-Nov-2019 10:06:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 12
+[27-Nov-2019 10:06:15 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 19
+[27-Nov-2019 10:08:51 Etc/GMT] PHP Notice:  Undefined variable: json in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 12
+[27-Nov-2019 10:08:51 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 12
+[27-Nov-2019 10:08:51 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 12
+[27-Nov-2019 10:08:51 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 19
+[27-Nov-2019 10:09:06 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 19
+[27-Nov-2019 10:10:09 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 19
+[27-Nov-2019 10:10:21 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 19
+[27-Nov-2019 10:10:39 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 20
+[27-Nov-2019 10:32:03 Etc/GMT] PHP Notice:  Undefined index: name in /home/vbinfggt/public_html/khushboo/evolution/test.php on line 20
+[27-Nov-2019 11:26:17 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/vbinfggt/public_html/khushboo/evolution/api.php on line 792
+[27-Nov-2019 11:40:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/evolution/api.php on line 813
+[27-Nov-2019 11:40:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/evolution/api.php on line 813
+[27-Nov-2019 11:40:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/evolution/api.php on line 813
+[27-Nov-2019 11:40:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/evolution/api.php on line 813
+[27-Nov-2019 11:40:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/evolution/api.php on line 813
+[27-Nov-2019 11:40:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/evolution/api.php on line 813
+[27-Nov-2019 11:40:29 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/evolution/api.php on line 813
+[27-Nov-2019 11:40:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/evolution/api.php on line 813
+[25-Dec-2019 07:37:11 Etc/GMT] PHP Parse error:  syntax error, unexpected ''price'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vbinfggt/public_html/khushboo/pizza/api.php on line 863
+[25-Dec-2019 07:37:16 Etc/GMT] PHP Parse error:  syntax error, unexpected ''price'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vbinfggt/public_html/khushboo/pizza/api.php on line 863
+[25-Dec-2019 07:37:40 Etc/GMT] PHP Parse error:  syntax error, unexpected ''price'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vbinfggt/public_html/khushboo/pizza/api.php on line 863
+[25-Dec-2019 07:37:40 Etc/GMT] PHP Parse error:  syntax error, unexpected ''price'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vbinfggt/public_html/khushboo/pizza/api.php on line 863
+[25-Dec-2019 07:37:40 Etc/GMT] PHP Parse error:  syntax error, unexpected ''price'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vbinfggt/public_html/khushboo/pizza/api.php on line 863
+[25-Dec-2019 07:37:41 Etc/GMT] PHP Parse error:  syntax error, unexpected ''price'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vbinfggt/public_html/khushboo/pizza/api.php on line 863
+[25-Dec-2019 07:37:41 Etc/GMT] PHP Parse error:  syntax error, unexpected ''price'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vbinfggt/public_html/khushboo/pizza/api.php on line 863
+[25-Dec-2019 07:37:53 Etc/GMT] PHP Parse error:  syntax error, unexpected ''price'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vbinfggt/public_html/khushboo/pizza/api.php on line 863
+[27-Dec-2019 14:26:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/pizza/api.php on line 154
+[06-Feb-2020 15:11:15 Etc/GMT] PHP Warning:  require(WriteHTML.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/test.php on line 2
+[06-Feb-2020 15:11:15 Etc/GMT] PHP Warning:  require(WriteHTML.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/test.php on line 2
+[06-Feb-2020 15:11:15 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'WriteHTML.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/vbinfggt/public_html/khushboo/pizza/test.php on line 2
+[06-Feb-2020 15:14:04 Etc/GMT] PHP Warning:  require(WriteHTML.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/test.php on line 2
+[06-Feb-2020 15:14:04 Etc/GMT] PHP Warning:  require(WriteHTML.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/test.php on line 2
+[06-Feb-2020 15:14:04 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'WriteHTML.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/vbinfggt/public_html/khushboo/pizza/test.php on line 2
+[06-Feb-2020 15:15:32 Etc/GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 12
+[06-Feb-2020 15:15:32 Etc/GMT] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/test.php on line 10
+[06-Feb-2020 15:15:32 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/vbinfggt/public_html/khushboo/pizza/test.php on line 12
+[06-Feb-2020 15:15:32 Etc/GMT] PHP Warning:  include(helvetica.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 1145
+[06-Feb-2020 15:15:32 Etc/GMT] PHP Warning:  include(helvetica.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 1145
+[06-Feb-2020 15:15:32 Etc/GMT] PHP Warning:  include(): Failed opening 'helvetica.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 1145
+[06-Feb-2020 15:16:37 Etc/GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 12
+[06-Feb-2020 15:16:37 Etc/GMT] PHP Warning:  fopen(logo.png): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 1232
+[06-Feb-2020 15:17:12 Etc/GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 12
+[06-Feb-2020 15:17:12 Etc/GMT] PHP Warning:  include(helveticab.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 1145
+[06-Feb-2020 15:17:12 Etc/GMT] PHP Warning:  include(helveticab.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 1145
+[06-Feb-2020 15:17:12 Etc/GMT] PHP Warning:  include(): Failed opening 'helveticab.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 1145
+[06-Feb-2020 15:19:11 Etc/GMT] PHP Warning:  require(../fpdf.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/tuto1.php on line 2
+[06-Feb-2020 15:19:11 Etc/GMT] PHP Warning:  require(../fpdf.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/tuto1.php on line 2
+[06-Feb-2020 15:19:11 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../fpdf.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/vbinfggt/public_html/khushboo/pizza/tuto1.php on line 2
+[06-Feb-2020 15:19:23 Etc/GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 12
+[06-Feb-2020 15:19:23 Etc/GMT] PHP Warning:  include(helveticab.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 1145
+[06-Feb-2020 15:19:23 Etc/GMT] PHP Warning:  include(helveticab.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 1145
+[06-Feb-2020 15:19:23 Etc/GMT] PHP Warning:  include(): Failed opening 'helveticab.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/vbinfggt/public_html/khushboo/pizza/fpdf.php on line 1145
+[06-Feb-2020 15:24:45 Etc/GMT] PHP Warning:  require(fpdf.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/tuto1.php on line 2
+[06-Feb-2020 15:24:45 Etc/GMT] PHP Warning:  require(fpdf.php): failed to open stream: No such file or directory in /home/vbinfggt/public_html/khushboo/pizza/tuto1.php on line 2
+[06-Feb-2020 15:24:45 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'fpdf.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/vbinfggt/public_html/khushboo/pizza/tuto1.php on line 2

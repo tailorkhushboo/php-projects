@@ -1,0 +1,10 @@
+[23-Nov-2019 11:33:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/game/api.php on line 534
+[23-Nov-2019 11:36:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/game/api.php on line 534
+[23-Nov-2019 11:37:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/game/api.php on line 534
+[23-Nov-2019 11:37:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/game/api.php on line 534
+[23-Nov-2019 11:38:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/game/api.php on line 534
+[23-Nov-2019 11:38:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/game/api.php on line 534
+[23-Nov-2019 11:38:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/game/api.php on line 534
+[23-Nov-2019 11:39:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vbinfggt/public_html/khushboo/game/api.php on line 534
+[03-Dec-2019 11:25:00 Etc/GMT] PHP Fatal error:  Cannot use temporary expression in write context in /home/vbinfggt/public_html/khushboo/game/api.php on line 1465
+[03-Dec-2019 11:28:38 Etc/GMT] PHP Fatal error:  Cannot use temporary expression in write context in /home/vbinfggt/public_html/khushboo/game/api.php on line 1465
